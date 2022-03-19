@@ -5,7 +5,7 @@
 
 
 <h3 align="center">A Simple, Minimal Text editor made with PyQt5</h3>
-<hr style="width:50%;"><br>
+<br>
 
 ## Setup and Running the Program
 
